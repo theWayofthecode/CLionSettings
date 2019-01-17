@@ -6,8 +6,12 @@
           <option name="url" value="ssh://git@eu-muc-git01.ux.dsone.3ds.com:7999/quan/dstellar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@eu-muc-git01.ux.dsone.3ds.com:7999/qapp/dstellarartifacttests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/mnt/external" />
+    <option name="cloneParentDir" value="/mnt/external/codes" />
   </component>
 </application>

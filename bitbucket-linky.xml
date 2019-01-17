@@ -10,5 +10,5 @@
       <record scheme="ssh" hostname="eu-muc-git01.ux.dsone.3ds.com" port="7999" path="/" uuid="cd73837c-7c97-3a3c-aac9-b5d9b7804f76" />
     </lookup>
   </component>
-  <component name="Instance" id="70a90be3-7aa9-49df-8ed1-f96902b70843" version="6.1" />
+  <component name="Instance" id="70a90be3-7aa9-49df-8ed1-f96902b70843" version="6.3" />
 </application>
